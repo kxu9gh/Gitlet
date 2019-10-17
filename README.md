@@ -8,3 +8,5 @@ The main functionalities are:
 - Log: Viewing the history of your backups. 
 - Branches: Maintaining related sequences of commits.
 - Merge: Merging changes made in one branch into another.
+
+For more information, please check out https://cs61bl.org/su19/projects/gitlet/#overview-of-gitlet.
